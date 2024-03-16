@@ -1,0 +1,5 @@
+IP: 158.160.15.239;
+name_taski: https://cheshir.myddns.me/ ;
+name_kittygram: https://funny-kitty.gotdns.ch ;
+login: cat;
+password: 8989;
